@@ -1,0 +1,3 @@
+defang
+opencv-python
+requests
